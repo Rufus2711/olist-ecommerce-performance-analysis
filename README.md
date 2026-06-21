@@ -62,7 +62,6 @@ Delivery performance varies significantly across states, with the highest late-d
 * Investigate operational bottlenecks contributing to severe delivery delays.
 * Focus logistics improvement efforts on states with consistently high late-delivery rates.
 
-  ## Key Visualizations
 
 ## Key Visualizations
 
