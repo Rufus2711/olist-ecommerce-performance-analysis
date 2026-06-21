@@ -62,6 +62,20 @@ Delivery performance varies significantly across states, with the highest late-d
 * Investigate operational bottlenecks contributing to severe delivery delays.
 * Focus logistics improvement efforts on states with consistently high late-delivery rates.
 
+  ## Key Visualizations
+
+### Revenue by Category
+![Revenue by Category](<img width="845" height="632" alt="Screenshot 2026-06-21 170948" src="https://github.com/user-attachments/assets/8c11d18d-ace2-47fe-8b4b-5bfd967f2627" />
+)
+
+### Seller Revenue Concentration
+![Seller Concentration](<img width="850" height="627" alt="Screenshot 2026-06-21 171051" src="https://github.com/user-attachments/assets/15065a8e-cc95-4304-82f4-cbc39939ff9c" />
+)
+
+### Late Delivery Rate by State
+![Late Delivery](<img width="842" height="617" alt="Screenshot 2026-06-21 171131" src="https://github.com/user-attachments/assets/10009039-6c3c-4120-b9f6-ab7410e8f6c9" />
+)
+
 ## Repository Structure
 
 ```text
@@ -70,7 +84,7 @@ olist-ecommerce-performance-analysis/
 ├── notebooks/
 │   └── E_Commerece_performance_analysis_.ipynb
 │
-├── data/-
+├── images/-
 │
 └── README.md
 ```
