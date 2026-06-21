@@ -85,7 +85,7 @@ olist-ecommerce-performance-analysis/
 ├── notebooks/
 │   └── E_Commerece_performance_analysis_.ipynb
 │
-├── images/-
+├── images/
 │
 └── README.md
 ```
